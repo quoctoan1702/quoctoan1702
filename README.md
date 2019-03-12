@@ -1,13 +1,13 @@
 ## *TRANG CHỦ*
 ## *Danh sách lớp*
 
-| STT  | Tên  |   |   |   |
+| STT  | Tên  |Ngành   | Năm sinh  |   |
 |---|---|---|---|---|
-| 1  | Nguyễn Quốc Toàn  |   |   |   |
-| 2 | Nhan Ngọc Dương  |   |   |   |
-| 3  | Lê Hoàng Tuấn  |   |   |   |
-| 4  | Dương Thị Mỹ Huyền  |   |   |   |
-| 5  | Phạm Quang Chước  |   |   |   |
+| 1  | Nguyễn Quốc Toàn  |CNTT   |1996   |   |
+| 2 | Nhan Ngọc Dương  | CNTT  |1997   |   |
+| 3  | Lê Hoàng Tuấn  | CNTT  |1997   |   |
+| 4  | Dương Thị Mỹ Huyền  |CNTT   |1997   |   |
+| 5  | Phạm Quang Chước  | CNTT  |1997   |   |
 ## Ngôn Ngữ C#
 
 # Header 1
