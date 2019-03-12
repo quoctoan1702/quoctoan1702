@@ -4,9 +4,9 @@
 ghhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 ### Ngôn Ngữ C#
-''' int main(){
- return 0;
-}'''
+''' idef foo():
+    if not bar:
+        return True'''
 # Header 1
 ## Header 2
 ### Header 3
