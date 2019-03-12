@@ -1,10 +1,10 @@
-## Học markdown
+## *TRANG CHỦ*
 
 You can use the [editor on GitHub](https://github.com/quoctoan1702/quoctoan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Phần 1
+### Ngôn Ngữ C#
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
