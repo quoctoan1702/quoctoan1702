@@ -8,11 +8,11 @@
 | 3  | Lê Hoàng Tuấn  | CNTT  |1997   | 16  |
 | 4  | Dương Thị Mỹ Huyền  |CNTT   |1997   | 16  |
 | 5  | Phạm Quang Chước  | CNTT  |1997   | 16  |
-## Ngôn Ngữ C#
 
-# Header 1
-## Header 2
-### Header 3
+##
+# Chương 1
+## Chương 2
+### Chương 3
 
 - Bulleted
 - List
